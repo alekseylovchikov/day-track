@@ -89,7 +89,7 @@ import {
           class="flex flex-col items-center p-2 text-xs capitalize"
           href="#timeline"
         >
-          <ClockIcon />
+          <ClockIcon class="h-6 w-6" />
           timeline
         </a>
       </li>
@@ -98,7 +98,7 @@ import {
           class="flex flex-col items-center p-2 text-xs capitalize"
           href="#activities"
         >
-          <ListBulletIcon />
+          <ListBulletIcon class="h-6 w-6" />
           activities
         </a>
       </li>
@@ -107,7 +107,7 @@ import {
           class="flex flex-col items-center p-2 text-xs capitalize"
           href="#progress"
         >
-          <ChartBarIcon />
+          <ChartBarIcon class="h-6 w-6" />
           progress
         </a>
       </li>
